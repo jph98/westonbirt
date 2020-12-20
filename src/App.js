@@ -98,14 +98,14 @@ const App = () => {
         <h1 className="header">Westonbirt Golf Booking</h1>        
         <Container>
           <Row className="justify-content-md-center">
-            <h6><a style={{color: 'grey'}} href='https://www.westonbirtgolfclub.co.uk/'>About Westonbirt Golf Club</a></h6>
+            <h6><a style={{color: '#33aa00'}} href='https://www.westonbirtgolfclub.co.uk/'>About Westonbirt Golf Club</a></h6>
           </Row>
           <Row className="justify-content-md-center">
-            <Image src='./aerial.png' width='300px'/>
+            <Image src='./images/aerial.png' width='300px'/>
           </Row>
         </Container>
         <ListGroup style={{marginTop: 20}}>
-          {/* { comps }           */}
+          { comps }          
         </ListGroup>
       </Jumbotron>
     </Container>
