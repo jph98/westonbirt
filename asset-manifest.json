@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/westonbirtgolfbooking/static/css/main.a6976db8.chunk.css",
-    "main.js": "/westonbirtgolfbooking/static/js/main.e257d0b8.chunk.js",
-    "main.js.map": "/westonbirtgolfbooking/static/js/main.e257d0b8.chunk.js.map",
+    "main.js": "/westonbirtgolfbooking/static/js/main.bed617dc.chunk.js",
+    "main.js.map": "/westonbirtgolfbooking/static/js/main.bed617dc.chunk.js.map",
     "runtime-main.js": "/westonbirtgolfbooking/static/js/runtime-main.069328ca.js",
     "runtime-main.js.map": "/westonbirtgolfbooking/static/js/runtime-main.069328ca.js.map",
     "static/js/2.77ce769e.chunk.js": "/westonbirtgolfbooking/static/js/2.77ce769e.chunk.js",
     "static/js/2.77ce769e.chunk.js.map": "/westonbirtgolfbooking/static/js/2.77ce769e.chunk.js.map",
     "index.html": "/westonbirtgolfbooking/index.html",
     "static/css/main.a6976db8.chunk.css.map": "/westonbirtgolfbooking/static/css/main.a6976db8.chunk.css.map",
-    "static/js/2.77ce769e.chunk.js.LICENSE.txt": "/westonbirtgolfbooking/static/js/2.77ce769e.chunk.js.LICENSE.txt"
+    "static/js/2.77ce769e.chunk.js.LICENSE.txt": "/westonbirtgolfbooking/static/js/2.77ce769e.chunk.js.LICENSE.txt",
+    "static/media/aerial.b271ac38.png": "/westonbirtgolfbooking/static/media/aerial.b271ac38.png"
   },
   "entrypoints": [
     "static/js/runtime-main.069328ca.js",
     "static/js/2.77ce769e.chunk.js",
     "static/css/main.a6976db8.chunk.css",
-    "static/js/main.e257d0b8.chunk.js"
+    "static/js/main.bed617dc.chunk.js"
   ]
 }
