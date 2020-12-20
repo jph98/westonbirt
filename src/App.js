@@ -101,11 +101,11 @@ const App = () => {
             <h6><a style={{color: 'grey'}} href='https://www.westonbirtgolfclub.co.uk/'>About Westonbirt Golf Club</a></h6>
           </Row>
           <Row className="justify-content-md-center">
-            <Image src='./aerial.png' width='600px' fluid/>
+            <Image src='./aerial.png' width='300px'/>
           </Row>
         </Container>
         <ListGroup style={{marginTop: 20}}>
-          { comps }          
+          {/* { comps }           */}
         </ListGroup>
       </Jumbotron>
     </Container>
